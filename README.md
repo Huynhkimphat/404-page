@@ -6,5 +6,4 @@
 
 <h4 align="center"> 🖥 Live Preview <a href="https://huynhkimphat.github.io/404-page/" target="_blank"> https://huynhkimphat.github.io/404-page/</a></h4>
 
-![Preview](https://repository-images.githubusercontent.com/305434068/25964280-11fb-11eb-9908-d858fcc77e67)
 
